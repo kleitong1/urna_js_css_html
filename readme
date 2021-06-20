@@ -1,0 +1,11 @@
+Projeto de urna eletronica feito em front-end.
+
+Tratado com HTML, CSS e JavaScript.
+
+Interações: 
+  - As funções da urna eletronica, incluindo: iteratividades dos botões númericos, botões de ação para corrigir,
+  confirmar e reiniciar o voto.
+  - Numeros especificos exibidos na tela vão corresponder a candidatos ficticios para vereador, prefeito e presidente.
+  - Efeitos sonoros para as funcionalidades dos botões da Urna Eletronica.
+  
+  
